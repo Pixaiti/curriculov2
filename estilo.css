@@ -49,6 +49,7 @@ main{
 .left{
     float: left;
     width: 60%;
+    min-width: 200px;
     margin-top: -10vh;
     height: 70vh;
     display: flex;
