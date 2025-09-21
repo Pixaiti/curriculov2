@@ -52,7 +52,7 @@ main{
 .left{
     float: left;
     width: 60%;
-    min-width: 200px;
+    min-width: 210px;
     height: 20vh;
     display: flex;
     flex-direction: column;
@@ -95,7 +95,7 @@ main{
 }
 
 .right{
-    min-width: 190px;
+    min-width: 180px;
     width: 30%;
     height: 100vh;
     position: absolute;
