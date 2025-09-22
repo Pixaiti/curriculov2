@@ -52,7 +52,7 @@ main{
 .left{
     float: left;
     width: 60%;
-    min-width: 210px;
+    min-width: 215px;
     height: 20vh;
     display: flex;
     flex-direction: column;
@@ -95,7 +95,7 @@ main{
 }
 
 .right{
-    min-width: 185px;
+    min-width: 180px;
     width: 30%;
     height: 100vh;
     position: absolute;
@@ -121,7 +121,7 @@ main{
 
 .right ul{
     list-style: square;
-    margin-left: 0.5vw;
+    margin-left: 1vw;
 }
 
 .right ul li{
